@@ -7,7 +7,7 @@ En el desarrollo del programa se utilizan:<br>
   <li>Matrices</li>
   <li>Listas</li>
   <li>Cadenas de caracteres</li>
-  <li>Diccionarios para crear el registro de partidas ganadas, perdidas y empates para cargarlo en un archivo .txt llamado, Registro_partidas.txt </li>
+  <li>Diccionarios para crear el registro de partidas ganadas, perdidas y empates para cargarlo en un archivo de texto llamado, Registro_partidas.txt </li>
 </ul>
 <br>
 <img src="TaTeTiImg.png">
