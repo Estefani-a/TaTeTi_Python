@@ -1,7 +1,7 @@
 <h1> TaTeTi con Python </h1>
 Juego de Ta Te Ti programado con Python.<br/>
-En el desarrollo del programa se utilizan:<br/>
-
+En el desarrollo del programa se utilizan:
+<br/>
 <ul>
   <li>Funciones</li>
   <li>Matrices</li>
