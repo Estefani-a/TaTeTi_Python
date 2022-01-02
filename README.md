@@ -2,7 +2,7 @@
 Juego de Ta Te Ti programado con Python.<br/>
 En el desarrollo del programa se utilizan:
 <li>
-  Funciones
+  Funciones<br/>
   Matrices
   Listas
   Cadenas de caracteres
